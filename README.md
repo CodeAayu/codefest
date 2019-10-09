@@ -1,7 +1,7 @@
 # Codefest
-Welcome to Codefest 2019. To grab a seat in this competition what you have to do is make a pull requests. Follow the whole documentation.
+Welcome to Codefest 2019. To grab a seat in this competition what you have to do is to make a pull request. Follow the whole documentation.
 ## What is a pull request?
-Pull requests helps you to let the maintainer of the project know the changes you want to make to their project. Once a pull request (PR) is opened
+Pull request helps you to let the maintainer of the project know the changes you want to make to their project. Once a pull request (PR) is opened
 the project owner or the maintainers can review the changes and can merge them to their project or close the pr.
 
 ## How to Create a pull request?
